@@ -1,0 +1,13 @@
+theme: minima
+title: gProjects
+description: Python experiments and computational notebooks
+baseurl: ""
+url: ""
+
+markdown: kramdown
+highlighter: rouge
+
+exclude:
+  - README.md
+  - .gitignore
+  - LICENSE
